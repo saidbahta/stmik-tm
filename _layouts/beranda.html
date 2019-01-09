@@ -1,0 +1,87 @@
+---
+layout: default
+---
+<!-- START carousel   -->
+<div class="">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner">
+            {% for banner in site.data.banners %}
+            <div class="carousel-item {{banner.status}}">
+                <img class="d-block w-100" src="{{ banner.gambar }}">
+                <div class="carousel-caption d-none d-md-block">
+                    <h4 class="font-weight-bold">{{ banner.judul }}</h4>
+                    <p class="font-weight-bold">{{ banner.deskripsi }}</p>
+                </div>
+            </div>
+            {% endfor %}
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</div>
+<!-- END carousel  -->
+
+<br>
+<br>
+<div class="container">
+    <h3 class="text-center garis-heading font-georgia">BERITA KAMPUS</h3>
+    <div class="row">
+        {% assign daftar-berita = site.berita | reverse %}
+        {% for berita in daftar-berita limit:4 %}
+        <div class="col-md-6 pb-4">
+            <div class="card">
+                <img class="card-img-top" src="{{baseurl}}{{ berita.gambar }}">
+                <div class="card-body">
+                    <h5 class="card-title mb-2 font-asap">{{ berita.title }}</h5>
+                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
+                            berita.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{berita.penulis}}</small></p>
+                    <a href="{{baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark">
+                        {{ berita.excerpt | strip_html | truncatewords: 30 }}
+                    </a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="text-center font-italic"><a href="berita" class="text-muted">Arsip. . .</a></div>
+</div>
+
+<br>
+<br>
+
+<div class="container">
+    <h3 class="text-center garis-heading font-georgia">OPINI KAMPUS</h3>
+    <div class="row">
+        {% assign daftar-opini = site.opini | reverse %}
+        {% for opini in daftar-opini limit:4 %}
+        <div class="col-md-6 pb-4">
+            <div class="card">
+                <img class="card-img-top" src="{{ opini.gambar }}">
+                <div class="card-body">
+                    <h5 class="card-title mb-2 font-asap">{{ opini.title }}</h5>
+                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
+                            opini.waktu }} &nbsp; <i class="fas fa-user-tie"></i> {{opini.penulis}}</small></p>
+                    <a href="{{baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark">
+                        {{ opini.content | strip_html | truncatewords: 30 }}
+                    </a>
+                    <br>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="text-center font-italic"><a href="opini" class="text-muted">Arsip. . .</a></div>
+</div>
+<br>

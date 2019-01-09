@@ -1,0 +1,3 @@
+width : 740 
+height : 250
+resolusi : 0

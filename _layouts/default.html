@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{site.title_a}} {{site.title_b}}</title>
+  <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/bootstrap.min.css" />
+  <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans&effect=shadow-multiple|Asap:500" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+    crossorigin="anonymous">
+  <script src="/assets/js/jquery-3.3.1.min.js"></script>
+  <script src="/assets/js/bootstrap.min.js"></script>
+  <script src="https://use.fontawesome.com/3b535f638d.js"></script>
+
+  <style>
+    .garis-heading {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        padding-bottom: 12px;
+    }
+    .garis-heading::before, .garis-heading::after {
+        content: "";
+        border: solid #28a745;
+        border-width: .1em;
+        height: .1em;
+        margin: .05em;
+        flex: 1;
+    }
+    .garis-heading::before {
+        margin-right: .3em;
+    }
+    .garis-heading::after {
+        margin-left: .3em;
+    }
+    .layout-tentang-judul {
+        border-bottom: 3px solid #28a745;
+        border-top: 3px solid #28a745;
+        display: inline-block;
+        padding-top: 10px;
+        padding-bottom: 12px;
+    }
+    .font-asap {
+        font-family: Asap, sans-serif;
+    }
+    .font-georgia {
+        font-family: Georgia, serif;
+    }
+    .font-merri {
+        font-family: 'Merriweather Sans', sans-serif;
+    }
+    .li-pl {
+        padding-left: 4px;
+        padding-bottom: 10px;
+    }
+    </style>
+</head>
+
+<body>
+  <!-- START Header -->
+  <header class="mr-5">
+    <div class="container py-1">
+      <div class="row">
+        <div class="col-md-2">
+          <img class="align-self-center" src="/assets/img/logo/logo.png" alt="Logo STMIK-TM">
+        </div>
+        <div class="col-md-8 align-self-center">
+          <h3 class="mt-0 font-effect-shadow-multiple font-merri">Sekolah
+            Tinggi Manajemen Informatika dan Komputer, Tidore Mandiri </h3>
+          <p class="mb-0 text-muted font-italic">Mengedepankan Kompetensi Dalam Penguasaan Teknologi Informasi dan
+            Komunikasi</p>
+        </div>
+        <div class="col-md-2 align-self-center text-right">
+          <a href="#"><b>ID</b></a> - <a href="#">ENG</a>
+        </div>
+      </div>
+    </div>
+  </header>
+  <!-- END Header -->
+  <!-- START Nav -->
+  <nav class="navbar navbar-dark bg-success navbar-expand-lg justify-content-center sticky-top py-1 shadow">
+    <div class="container font-weight-bold font-asap">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+        aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav ">
+          <a class="nav-item nav-link active" href="{{site.baseurl}}">Beranda<span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link " href="/tentang">Tentang</a>
+          <a class="nav-item nav-link" href="#">Program Studi</a>
+          <a class="nav-item nav-link" href="#">Artikel</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">
+              Layanan
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">SIAKAD</a>
+              <a class="dropdown-item" href="#">SLIM</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Pendaftaran</a>
+            </div>
+          </li>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <!-- END Nav -->
+
+  {{content}}
+
+  <br>
+  <!-- START footer -->
+  <div class="bg-success pt-4 pb-4 text-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm">
+          <p class="font-weight-bold"><i class="fas fa-phone"></i> <u>HUBUNGI
+              KAMI</u></p>
+          <ul style="list-style:disclosure-closed">
+            <li>(0921) 3161490</li>
+            <li>stmik-tm.ac.id</li>
+          </ul>
+        </div>
+        <div class="col-sm">
+          <p class="font-weight-bold"><i class="fas fa-external-link-alt"></i> <u>TAUTAN PENTING</u></p>
+          <ul style="list-style:disclosure-closed">
+            <li><a href="#" class="text-white"> Riset Dikti</a></li>
+            <li><a href="#" class="text-white"> Simlibtamas</a></li>
+            <li><a href="#" class="text-white"> Jurnal Online</a></li>
+            <li><a href="#" class="text-white"> Perpustakaan</a></li>
+          </ul>
+        </div>
+        <div class="col-sm">
+          <p class="font-weight-bold"><i class="fas fa-exclamation-circle"></i> <u>BANTUAN</u></p>
+          <ul style="list-style:disclosure-closed">
+            <li><a href="#" class="text-white">Dosen</a></li>
+            <li><a href="#" class="text-white">Mahasiswa</a></li>
+            <li><a href="#" class="text-white">Calon Mahasiswa</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="container">
+      <div class="col-sm">
+        <i class="fab fa-facebook fa-2x"></i>
+        <i class="fab fa-youtube fa-2x"></i>
+        <i class="fab fa-instagram fa-2x"></i><br>
+        <i class="fa fa-copyright" aria-hidden="true"></i> <b>Copyleft 2018</b> | Sekolah Tinggi Manajemen Informatika
+        dan
+        Komputer <br>
+      </div>
+    </div>
+  </div>
+  <!-- END footer -->
+</body>
+
+</html>

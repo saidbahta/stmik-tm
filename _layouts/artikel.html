@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-1 text-right" style="margin-top:100px">
+      <i class="fab fa-facebook fa-2x mt-5"></i> <br>
+      <i class="fab fa-twitter fa-2x mt-3"></i> <br>
+      <i class="fab fa-google fa-2x mt-3"></i> <br>
+      <i class="fas fa-envelope fa-2x mt-3"> </i>
+    </div>
+    <div class="col-8">
+      <h2 style="font-family: 'Asap', sans-serif;">{{ page.title }}</h2>
+      <p class="card-text text-muted  pb-3">&nbsp;<i class="far fa-calendar-alt"></i> {{ page.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{page.penulis}}</p>
+      <figure class="figure">
+        <img src="{{ page.gambar }}" class="figure-img img-fluid rounded">
+      </figure>
+
+      {{ content }}
+
+      <br>
+    </div>
+    <div class="col-3">
+
+    </div>
+  </div>
+</div>
+<!-- END content -->
