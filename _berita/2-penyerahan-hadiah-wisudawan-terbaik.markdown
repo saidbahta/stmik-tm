@@ -1,10 +1,9 @@
 ---
 layout: artikel
-title: Penyerahan Bantuan BANK Muamalat ke STMIK TM
-gambar: /assets/img/gambar_berita/panduan-suara-stmik-tm.jpg
-waktu: 15 November 2018
+title: Penyerahan Hadiah Kepada Wisudawan Terbaik 
+gambar: /assets/img/gambar_berita/2018-12-29-wisudawan-terbaik.JPG
+waktu: 29 Desember 2018
 penulis: Said D. Bahta
-nomor: 2
 ---
 
 Visi misi STMIK-Tidore Mandiri 

@@ -4,7 +4,6 @@ title: Sambutan Ketua I STMIK Tidore Mandiri
 gambar: /assets/img/gambar_berita/2018-12-29-wisuda-vi-stmik-tm.jpg
 waktu: 29 Desember 2018
 penulis: Said D. Bahta
-nomor: 3
 ---
 
 Visi misi STMIK-Tidore Mandiri 
