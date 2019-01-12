@@ -42,12 +42,12 @@ layout: default
         {% for berita in daftar-berita limit:4 %}
         <div class="col-md-6 pb-4">
             <div class="card">
-                <img class="card-img-top" src="{{baseurl}}{{ berita.gambar }}">
+                <img class="card-img-top" src="{{site.baseurl}}{{ berita.gambar }}">
                 <div class="card-body">
-                    <a href="{{baseurl}}{{ berita.url }}" class="text-dark"><h5 class="card-title mb-2 font-asap font-weight-bold">{{ berita.title }}</h5></a>
+                    <a href="{{site.baseurl}}{{ berita.url }}" class="text-dark"><h5 class="card-title mb-2 font-asap font-weight-bold">{{ berita.title }}</h5></a>
                     <p class="card-text font-small-caps"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             berita.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{berita.penulis}}</small></p>
-                    <a href="{{baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark">
+                    <a href="{{site.baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark">
                         {{ berita.excerpt | strip_html | truncatewords: 30 }}
                     </a>
                 </div>
@@ -70,10 +70,10 @@ layout: default
             <div class="card">
                 <img class="card-img-top" src="{{ opini.gambar }}">
                 <div class="card-body">
-                    <a href="{{baseurl}}{{ berita.url }}" class="text-dark"><h4 class="card-title mb-2 font-asap font-weight-bold">{{ opini.title }}</h4></a>
+                    <a href="{{site.baseurl}}{{ berita.url }}" class="text-dark"><h4 class="card-title mb-2 font-asap font-weight-bold">{{ opini.title }}</h4></a>
                     <p class="card-text font-small-caps"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             opini.waktu }} &nbsp; <i class="fas fa-user-tie"></i> {{opini.penulis}}</small></p>
-                    <a href="{{baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark">
+                    <a href="{{site.baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark">
                         {{ opini.content | strip_html | truncatewords: 30 }}
                     </a>
                     <br>
