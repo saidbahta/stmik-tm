@@ -1,0 +1,6 @@
+Image > Image Size 
+
+Width		: 732 
+Height 		: 367 
+Resolution 	: 2 
+Resample 	: Bicubic Sharper (reduction)
