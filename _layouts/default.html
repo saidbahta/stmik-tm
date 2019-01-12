@@ -6,12 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>{{site.title_a}} {{site.title_b}}</title>
-  <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/bootstrap.min.css" />
+  <link rel="stylesheet" type="text/css" media="screen" href="{{site.baseurl}}/assets/css/bootstrap.min.css" />
   <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans&effect=shadow-multiple|Asap:500" rel="stylesheet">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
     crossorigin="anonymous">
-  <script src="/assets/js/jquery-3.3.1.min.js"></script>
-  <script src="/assets/js/bootstrap.min.js"></script>
+  <script src="{{site.baseurl}}/assets/js/jquery-3.3.1.min.js"></script>
+  <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
   <script src="https://use.fontawesome.com/3b535f638d.js"></script>
 
   <style>
@@ -67,7 +67,7 @@
     <div class="container py-1">
       <div class="row">
         <div class="col-md-2">
-          <img class="align-self-center" src="/assets/img/logo/logo.png" alt="Logo STMIK-TM">
+          <img class="align-self-center" src="{{site.baseurl}}/assets/img/logo/logo.png" alt="Logo STMIK-TM">
         </div>
         <div class="col-md-8 align-self-center">
           <h3 class="mt-0 font-effect-shadow-multiple font-merri">Sekolah
@@ -92,17 +92,16 @@
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav ">
           <a class="nav-item nav-link active" href="{{site.baseurl}}">Beranda<span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link " href="/tentang">Tentang</a>
-          <a class="nav-item nav-link" href="#">Program Studi</a>
-          <a class="nav-item nav-link" href="#">Artikel</a>
+          <a class="nav-item nav-link " href="{{site.baseurl}}/tentang">Tentang</a>
+          <a class="nav-item nav-link" href="{{site.baseurl}}/prodi">Program Studi</a>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
               Layanan
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">SIAKAD</a>
-              <a class="dropdown-item" href="#">SLIM</a>
+              <a class="dropdown-item" href="stmik-tm.ac.id/simak">SIMAK</a>
+              <a class="dropdown-item" href="stmik-tm.ac.id/carijudul">CARI JUDUL SKRIPSI</a>
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="#">Pendaftaran</a>
             </div>
