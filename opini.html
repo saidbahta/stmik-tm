@@ -10,10 +10,9 @@ layout: default
             <div class="card">
                 <img class="card-img-top" src="{{ opini.gambar }}">
                 <div class="card-body">
-                    <h4 class="card-title mb-2" style="font-family: 'Asap', sans-serif;">{{ opini.title }}</h4>
-                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
+                    <a href="{{baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark"><h4 class="card-title mb-2" style="font-family: 'Asap', sans-serif;">{{ opini.title }}</h4></a>                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             opini.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{opini.penulis}}</small></p>
-                    <a href="{{site.baseurl}}{{ opini.url }}" style="text-decoration: none">
+                    <a href="{{site.baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark">
                         {{ opini.excerpt | strip_html | truncatewords: 30 }}
                     </a>
                 </div>

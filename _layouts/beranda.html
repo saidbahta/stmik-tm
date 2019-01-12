@@ -36,7 +36,7 @@ layout: default
 <br>
 <br>
 <div class="container">
-    <h3 class="text-center garis-heading font-georgia">BERITA KAMPUS</h3>
+    <h3 class="text-center garis-heading font-georgia font-small-caps">berita kampus</h3>
     <div class="row">
         {% assign daftar-berita = site.berita | reverse %}
         {% for berita in daftar-berita limit:4 %}
@@ -44,8 +44,8 @@ layout: default
             <div class="card">
                 <img class="card-img-top" src="{{baseurl}}{{ berita.gambar }}">
                 <div class="card-body">
-                    <h5 class="card-title mb-2 font-asap">{{ berita.title }}</h5>
-                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
+                    <a href="{{baseurl}}{{ berita.url }}" class="text-dark"><h5 class="card-title mb-2 font-asap font-weight-bold">{{ berita.title }}</h5></a>
+                    <p class="card-text font-small-caps"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             berita.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{berita.penulis}}</small></p>
                     <a href="{{baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark">
                         {{ berita.excerpt | strip_html | truncatewords: 30 }}
@@ -55,14 +55,14 @@ layout: default
         </div>
         {% endfor %}
     </div>
-    <div class="text-center font-italic"><a href="berita" class="text-muted">Arsip. . .</a></div>
+    <div class="text-center font-small-caps"><a href="berita" class="text-muted">Arsip. . .</a></div>
 </div>
 
 <br>
 <br>
 
 <div class="container">
-    <h3 class="text-center garis-heading font-georgia">OPINI KAMPUS</h3>
+    <h3 class="text-center garis-heading font-georgia font-small-caps">opini kampus</h3>
     <div class="row">
         {% assign daftar-opini = site.opini | reverse %}
         {% for opini in daftar-opini limit:4 %}
@@ -70,8 +70,8 @@ layout: default
             <div class="card">
                 <img class="card-img-top" src="{{ opini.gambar }}">
                 <div class="card-body">
-                    <h5 class="card-title mb-2 font-asap">{{ opini.title }}</h5>
-                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
+                    <a href="{{baseurl}}{{ berita.url }}" class="text-dark"><h4 class="card-title mb-2 font-asap font-weight-bold">{{ opini.title }}</h4></a>
+                    <p class="card-text font-small-caps"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             opini.waktu }} &nbsp; <i class="fas fa-user-tie"></i> {{opini.penulis}}</small></p>
                     <a href="{{baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark">
                         {{ opini.content | strip_html | truncatewords: 30 }}
@@ -82,6 +82,6 @@ layout: default
         </div>
         {% endfor %}
     </div>
-    <div class="text-center font-italic"><a href="opini" class="text-muted">Arsip. . .</a></div>
+    <div class="text-center font-small-caps"><a href="opini" class="text-muted">Arsip. . .</a></div>
 </div>
 <br>
