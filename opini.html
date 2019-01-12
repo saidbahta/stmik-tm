@@ -8,9 +8,9 @@ layout: default
         {% for opini in site.opini %}
         <div class="col-md-4 pb-4">
             <div class="card">
-                <img class="card-img-top" src="{{ opini.gambar }}">
+                <img class="card-img-top" src="{{site.baseurl}}{{ opini.gambar }}">
                 <div class="card-body">
-                    <a href="{{baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark"><h4 class="card-title mb-2" style="font-family: 'Asap', sans-serif;">{{ opini.title }}</h4></a>                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
+                    <a href="{{site.baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark"><h4 class="card-title mb-2" style="font-family: 'Asap', sans-serif;">{{ opini.title }}</h4></a>                    <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             opini.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{opini.penulis}}</small></p>
                     <a href="{{site.baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark">
                         {{ opini.excerpt | strip_html | truncatewords: 30 }}

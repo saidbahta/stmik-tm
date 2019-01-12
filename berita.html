@@ -8,12 +8,12 @@ layout: default
         {% for berita in site.berita %}
         <div class="col-md-4 pb-4">
             <div class="card">
-                <img class="card-img-top" src="{{ berita.gambar }}">
+                <img class="card-img-top" src="{{site.baseurl}}{{ berita.gambar }}">
                 <div class="card-body">
-                    <a href="{{baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark"><h4 class="card-title mb-2" style="font-family: 'Asap', sans-serif;">{{ berita.title }}</h4></a>
+                    <a href="{{site.baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark"><h4 class="card-title mb-2" style="font-family: 'Asap', sans-serif;">{{ berita.title }}</h4></a>
                     <p class="card-text"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             berita.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{berita.penulis}}</small></p>
-                    <a href="{{baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark">
+                    <a href="{{site.baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark">
                         {{ berita.excerpt | strip_html | truncatewords: 30 }}
                     </a>
                 </div>
