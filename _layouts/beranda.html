@@ -13,7 +13,7 @@ layout: default
         <div class="carousel-inner">
             {% for banner in site.data.banners %}
             <div class="carousel-item {{banner.status}}">
-                <img class="d-block w-100" src="{{site.baseurl}}/{{ banner.gambar }}">
+                <img class="d-block w-100" src="{{ banner.gambar }}">
                 <div class="carousel-caption d-none d-md-block">
                     <h4 class="font-weight-bold">{{ banner.judul }}</h4>
                     <p class="font-weight-bold">{{ banner.deskripsi }}</p>
@@ -42,12 +42,12 @@ layout: default
         {% for berita in daftar-berita limit:4 %}
         <div class="col-md-6 pb-4">
             <div class="card">
-                <img class="card-img-top" src="{{site.baseurl}}{{ berita.gambar }}">
+                <img class="card-img-top" src="{{ berita.gambar }}">
                 <div class="card-body">
-                    <a href="{{site.baseurl}}{{ berita.url }}" class="text-dark"><h5 class="card-title mb-2 font-asap font-weight-bold">{{ berita.title }}</h5></a>
+                    <a href="{{ berita.url }}" class="text-dark"><h5 class="card-title mb-2 font-asap font-weight-bold">{{ berita.title }}</h5></a>
                     <p class="card-text font-small-caps"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             berita.waktu }} &nbsp;&nbsp; <i class="fas fa-user-tie"></i> {{berita.penulis}}</small></p>
-                    <a href="{{site.baseurl}}{{ berita.url }}" style="text-decoration: none" class="text-dark">
+                    <a href="{{ berita.url }}" style="text-decoration: none" class="text-dark">
                         {{ berita.excerpt | strip_html | truncatewords: 30 }}
                     </a>
                 </div>
@@ -55,7 +55,7 @@ layout: default
         </div>
         {% endfor %}
     </div>
-    <div class="text-center font-small-caps"><a href="{{site.baseurl}}/berita" class="text-muted">Arsip. . .</a></div>
+    <div class="text-center font-small-caps"><a href="berita" class="text-muted">Arsip. . .</a></div>
 </div>
 
 <br>
@@ -68,12 +68,12 @@ layout: default
         {% for opini in daftar-opini limit:4 %}
         <div class="col-md-6 pb-4">
             <div class="card">
-                <img class="card-img-top" src="{{site.baseurl}}{{ opini.gambar }}">
+                <img class="card-img-top" src="{{ opini.gambar }}">
                 <div class="card-body">
-                    <a href="{{site.baseurl}}{{ berita.url }}" class="text-dark"><h4 class="card-title mb-2 font-asap font-weight-bold">{{ opini.title }}</h4></a>
+                    <a href="{{ berita.url }}" class="text-dark"><h4 class="card-title mb-2 font-asap font-weight-bold">{{ opini.title }}</h4></a>
                     <p class="card-text font-small-caps"><small class="text-muted">&nbsp;<i class="far fa-calendar-alt"></i> {{
                             opini.waktu }} &nbsp; <i class="fas fa-user-tie"></i> {{opini.penulis}}</small></p>
-                    <a href="{{site.baseurl}}{{ opini.url }}" style="text-decoration: none" class="text-dark">
+                    <a href="{{ opini.url }}" style="text-decoration: none" class="text-dark">
                         {{ opini.content | strip_html | truncatewords: 30 }}
                     </a>
                     <br>
@@ -82,6 +82,6 @@ layout: default
         </div>
         {% endfor %}
     </div>
-    <div class="text-center font-small-caps"><a href="{{site.baseurl}}/opini" class="text-muted">Arsip. . .</a></div>
+    <div class="text-center font-small-caps"><a href="opini" class="text-muted">Arsip. . .</a></div>
 </div>
 <br>
