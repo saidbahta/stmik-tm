@@ -1,7 +1,7 @@
 ---
 layout: artikel
 title: Opini Tiga
-gambar: /assets/img/gambar_umum/kegiatan-kampus.jpg
+gambar: /assets/img/gambar_opini/kegiatan-kampus.jpg
 waktu: 12 Desember 2018
 penulis: Said D. Bahta
 ---
