@@ -101,14 +101,8 @@
         <div class="navbar-nav ">
           {% assign nav_pages = site.html_pages | sort: 'nav_order' %}
           {% for nav in nav_pages %} {% if nav.nav_order %}
-          <a class="nav-item nav-link {% if nav.url == page.url %} active {% endif %}" href="{{ nav.url }}">
-            {{ nav.title }}
-          </a>
+          <a class="nav-item nav-link {% if nav.url == page.url %} active {% endif %}" href="{{ nav.url }}">{{ nav.title }}</a>
           {% endif %} {% endfor %}
-
-          <!-- <a class="nav-item nav-link active" href="/">Beranda<span class="sr-only">(current)</span></a>
-          <a class="nav-item nav-link " href="/tentang">Tentang</a>
-          <a class="nav-item nav-link" href="/prodi">Program Studi</a> -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">
@@ -175,5 +169,4 @@
   </div>
   <!-- END footer -->
 </body>
-
 </html>
