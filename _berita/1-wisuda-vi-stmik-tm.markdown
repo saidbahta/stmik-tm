@@ -4,6 +4,7 @@ title: Wisuda ke VI STMIK Tidore Mandiri
 gambar: /assets/img/gambar_berita/2018-12-29-gubernur-menghadiri-acara-wisuda.JPG
 waktu: 29 Desember 2018
 penulis: Panitia Wisuda
+deskripsi: Sebanyak 173 wisudawan-wisudawati yang berasal dari 3 program studi (S1) Sistem Informasi, (D3) Manajemen Informatika dan ... 
 ---
 
 Segala puji bagi Allah ﷻ pada tanggal 29 Desember 2018 kemarin, STMIK Tidore Mandiri telah menyelenggarakan acara Wisuda yang merupakan bagian dari agenda akademik STMIK Tidore Mandiri. Wisuda atau Rapat Senat Terbuka Luar Biasa Periode ke VI STMIK Tidore Mandiri bertempat di Ball Room hotel Grand Dafam Ternate.  
