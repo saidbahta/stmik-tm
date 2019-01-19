@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="id">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>{{site.title}}</title>
+  <title>{{site.title}} - {{page.title}}</title>
   {% if page.deskripsi %}
   <meta name="description" content="{{ page.deskripsi | escape }}">
   {% else %}
@@ -26,7 +25,16 @@
     crossorigin="anonymous">
   <script src="/assets/js/jquery-3.3.1.min.js"></script>
   <script src="/assets/js/bootstrap.min.js"></script>
-
+  <!-- GOOGLE TAG START -->
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132800868-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-132800868-1');
+  </script>
+  <!-- GOOGLE TAG END -->
   <style>
     .garis-heading {
         display: flex;
