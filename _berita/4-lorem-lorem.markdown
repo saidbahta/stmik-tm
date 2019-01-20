@@ -3,7 +3,7 @@ layout:     artikel
 title:      Ipsam facilis provident et voluptates ex
 gambar:     /assets/img/gambar_berita/panduan-suara-stmik-tm.jpg
 waktu:      15 Desember 2017
-penulis:    Said D. Bahta
+penulis:    Author
 ---
 
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas quisquam neque aliquam nostrum minima corporis quasi assumenda odit natus delectus quae, ea corrupti dicta dolorem vel. Amet neque nesciunt perspiciatis.

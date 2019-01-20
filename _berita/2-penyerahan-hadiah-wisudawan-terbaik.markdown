@@ -3,7 +3,7 @@ layout:     artikel
 title:      Penyerahan Hadiah Kepada Wisudawan dan Wisudawati Terbaik
 gambar:     /assets/img/gambar_berita/2018-12-29-wisudawan-terbaik.JPG
 waktu:      29 Desember 2018
-penulis:    Said D. Bahta
+penulis:    Panitia Wisuda
 deskripsi:  Dari 173 wisudawan-wisudawati yang berasal dari 3 program studi yang diwisuda, sebanyak 10 orang wisudawan-wisudawati yang memiliki nilai tertinggi...
 ---
 
