@@ -11,7 +11,7 @@ Segala puji bagi Allah ﷻ pada tanggal 29 Desember 2018 kemarin, STMIK Tidore M
 
 Sebanyak 173 wisudawan-wisudawati yang berasal dari 3 program studi (S1) Sistem Informasi, (D3) Manajemen Informatika dan (D3) Komputer Akuntansi diwisuda dan dinyatakan layak menggunakan gelar akademik Sarjana dan Ahli madia Komputer.
 
-Acara wisuda ke VI ini dihadiri oleh 1) Gubernur Maluku Utara, Abdul Ghani Kasuba, LC, 2) Perwakilan Walikota Tidore Kepulauan, 3) Ketua LLDIKTI Wilayah 12 Dr. Muhammad Bugis, SE., M.Si dan yang memberikan orasi Ilmiah 4) DR. Mashur Razak, M.Si.
+Acara wisuda ke VI ini dihadiri oleh 1) Gubernur Maluku Utara, Hi. Abdul Ghani Kasuba, LC, 2) Perwakilan Walikota Tidore Kepulauan, 3) Ketua LLDIKTI Wilayah 12 Dr. Muhammad Bugis, SE., M.Si dan yang memberikan orasi Ilmiah 4) DR. Mashur Razak, M.Si.
 
 Dalam sambutannya, Gubernur Provinsi Maluku Utara Abdul Ghani Kasuba, LC menitipkan pesan kepada wisudawan-wisudawati untuk terus mengembangkan kemampuan dalam bidang Komputer dan Teknologi Informasi agar mampu bersaing secara global.
 

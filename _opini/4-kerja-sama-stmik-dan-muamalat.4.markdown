@@ -1,9 +1,9 @@
 ---
 layout: artikel
-title: Opini Empat 
+title: Hic voluptate possimus quod maiores
 gambar: /assets/img/gambar_opini/kegiatan-kampus.jpg
 waktu: 12 Desember 2018
-penulis: Said D. Bahta
+penulis: Author
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem libero, aspernatur, quia magnam debitis eos quas itaque tempore, voluptatem adipisci a praesentium eveniet ipsam id dolores soluta alias doloremque odit.

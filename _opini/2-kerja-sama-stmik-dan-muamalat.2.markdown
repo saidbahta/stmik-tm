@@ -1,6 +1,6 @@
 ---
 layout: artikel
-title: Opini Dua
+title: Explicabo, neque quos?
 gambar: /assets/img/gambar_opini/kegiatan-kampus.jpg
 waktu: 12 Desember 2018
 penulis: Said D. Bahta
