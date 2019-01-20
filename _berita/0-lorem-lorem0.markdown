@@ -1,9 +1,9 @@
 ---
-layout: artikel
-title: Lorem ipsum dolor sit amet consectetur adipisicing elit
-gambar: /assets/img/gambar_berita/2018-12-29-wisuda-vi-stmik-tm.jpg
-waktu: 29 Desember 2018
-penulis: Author
+layout:     artikel
+title:      Lorem ipsum dolor sit amet consectetur adipisicing elit
+gambar:     /assets/img/gambar_opini/kegiatan-kampus.jpg
+waktu:      29 November 2018
+penulis:    Author
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur voluptate provident eveniet ut officia! Quaerat in ipsa quo, corporis qui ipsum molestiae aut tempora dolorum earum voluptate impedit quos? Commodi.

@@ -1,7 +1,7 @@
 ---
 layout:     artikel
 title:      Ipsam facilis provident et voluptates ex
-gambar:     /assets/img/gambar_berita/panduan-suara-stmik-tm.jpg
+gambar:     /assets/img/gambar_opini/kegiatan-kampus.jpg
 waktu:      15 Desember 2017
 penulis:    Author
 ---
