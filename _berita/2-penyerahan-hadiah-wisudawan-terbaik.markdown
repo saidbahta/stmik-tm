@@ -26,52 +26,42 @@ Berikut nama-nama wisudawan dan wisudawati terbaik STMIK Tidore Mandiri, Wisuda 
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Geofani Umasugi</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Karim Anwar</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Devy Novitasari</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Rimayanti Muhammad</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Suhartini Lestaluhu</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Rahmad</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Mario M. Taher</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Santi Doter</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
             <td>Ibnu Hamza Muhammad</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
         <tr>
             <td>Manajemen Informatika (D3)</td>
             <td>Trisna Febriana</td>
-            <!-- <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td> -->
         </tr>
     </tbody>
 </table>
