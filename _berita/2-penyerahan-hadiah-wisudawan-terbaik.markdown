@@ -1,11 +1,10 @@
 ---
-layout: artikel
-title: Penyerahan Hadiah Kepada Wisudawan dan Wisudawati Terbaik
-gambar: /assets/img/gambar_berita/2018-12-29-wisudawan-terbaik.JPG
-waktu: 29 Desember 2018
-penulis: Panitia Wisuda
-deskripsi: Dari 173 wisudawan-wisudawati yang berasal dari 3 program studi yang diwisuda, sebanyak 10 orang
-wisudawan-wisudawati yang memiliki nilai tertinggi...
+layout:     artikel
+title:      Penyerahan Hadiah Kepada Wisudawan dan Wisudawati Terbaik
+gambar:     /assets/img/gambar_berita/2018-12-29-wisudawan-terbaik.JPG
+waktu:      29 Desember 2018
+penulis:    Panitia Wisuda
+deskripsi:  Dari 173 wisudawan-wisudawati yang berasal dari 3 program studi yang diwisuda, sebanyak 10 orang wisudawan-wisudawati yang memiliki nilai tertinggi...
 ---
 
 Dari 3 program studi yang ada di STMIK Tidore Mandiri, sebanyak 10 orang wisudawan-wisudawati
