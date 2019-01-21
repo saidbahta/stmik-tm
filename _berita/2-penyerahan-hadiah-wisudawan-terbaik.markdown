@@ -1,13 +1,14 @@
 ---
-layout:     artikel
-title:      Penyerahan Hadiah Kepada Wisudawan dan Wisudawati Terbaik
-gambar:     /assets/img/gambar_berita/2018-12-29-wisudawan-terbaik.JPG
-waktu:      29 Desember 2018
-penulis:    Panitia Wisuda
-deskripsi:  Dari 173 wisudawan-wisudawati yang berasal dari 3 program studi yang diwisuda, sebanyak 10 orang wisudawan-wisudawati yang memiliki nilai tertinggi...
+layout: artikel
+title: Penyerahan Hadiah Kepada Wisudawan dan Wisudawati Terbaik
+gambar: /assets/img/gambar_berita/2018-12-29-wisudawan-terbaik.JPG
+waktu: 29 Desember 2018
+penulis: Panitia Wisuda
+deskripsi: Dari 173 wisudawan-wisudawati yang berasal dari 3 program studi yang diwisuda, sebanyak 10 orang
+wisudawan-wisudawati yang memiliki nilai tertinggi...
 ---
 
-Dari 3 program studi, sebanyak 10 orang wisudawan-wisudawati
+Dari 3 program studi yang ada di STMIK Tidore Mandiri, sebanyak 10 orang wisudawan-wisudawati
 yang memiliki nilai tertinggi diberikan apresiasi berupa hadian dan dipasangkan langsung salempang wisuda oleh Gubernur
 maluku utara Hi. Abdul Ghani Kasuba, LC.
 
@@ -24,13 +25,53 @@ Berikut nama-nama wisudawan dan wisudawati terbaik STMIK Tidore Mandiri, Wisuda 
     <tbody>
         <tr>
             <td>Sistem Informasi (S1)</td>
-            <td>Geofani</td>
-            <td><small>Bpk. </small> Ganti disini <br> <small>Ibu</small> Ganti disini</td>
+            <td>Geofani Umasugi</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
         </tr>
         <tr>
             <td>Sistem Informasi (S1)</td>
-            <td>Geofani</td>
-            <td><small>Bpk. </small> Ganti disini <br> <small>Ibu</small> Ganti disini</td>
+            <td>Karim Anwar</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Devi Novitasari</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Rimayanti Muhammad</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Suhartini Lestaluhu</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Rahmat</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Riska Vebriana</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Mari M. Taher</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Santi Doter</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
+        </tr>
+        <tr>
+            <td>Sistem Informasi (S1)</td>
+            <td>Ibnu Hamza Muhammad</td>
+            <td><small>Bpk. </small> ... <br> <small>Ibu</small> ...</td>
         </tr>
     </tbody>
 </table>
