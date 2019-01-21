@@ -19,7 +19,6 @@ Berikut nama-nama wisudawan dan wisudawati terbaik STMIK Tidore Mandiri, Wisuda 
         <tr>
             <th scope="col">Program Studi</th>
             <th scope="col">Nama Wisudawan/wati</th>
-            <th scope="col">Orang Tua</th>
         </tr>
     </thead>
     <tbody>
