@@ -1,5 +1,6 @@
 Image > Image Size 
 
-Width		: 732 
-Height 		: 367
+FASILITAS 	: 
+Width		: 744 
+Resolution 	: 2 
 Resample 	: Bicubic Sharper (reduction)
