@@ -1,7 +1,7 @@
 ---
 layout:     artikel
 title:      Jalan Liku [PUISI]
-gambar:     /assets/img/gambar_opini/7-3-2019-jalan-liku.jpg
+gambar:     /assets/img/gambar_opini/7-3-2019-jalan-liku-compress.jpg
 waktu:      7 Maret 2019
 penulis:    Uswatun Ha
 ---

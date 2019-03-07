@@ -1,7 +1,7 @@
 ---
 layout:     artikel
 title:      Tiga kunci sukses sebagai seorang mahasiswa
-gambar:     /assets/img/gambar_opini/tiga-kunci-sukses.jpg
+gambar:     /assets/img/gambar_opini/tiga-kunci-sukses-compress.jpg
 waktu:      38 Januari 2019
 penulis:    Said Bahta
 ---
