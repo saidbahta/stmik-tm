@@ -3,7 +3,7 @@ layout:     artikel
 title:      Jalan Liku [PUISI]
 gambar:     /assets/img/gambar_opini/7-3-2019-jalan-liku.jpg
 waktu:      7 Maret 2019
-penulis:    Uswatun H
+penulis:    Uswatun Ha
 ---
 
 Sepatah tak sepakat <br>
@@ -29,4 +29,4 @@ Atau hanya sekedar nominal semata? <br>
 MAHASISWA BUTUH PENGORBANAN <br>
 <br>
 <br>
-**Oleh : Uswatun Hasana**
+**Oleh : Uswatun Ha**
