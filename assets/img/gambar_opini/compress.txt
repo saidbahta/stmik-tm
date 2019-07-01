@@ -1,0 +1,1 @@
+jpegtran.exe -copy none -progressive 2018-12-29-gubernur-menghadiri-acara-wisuda.JPG 2018-12-29-gubernur-menghadiri-acara-wisuda-compress.JPG
