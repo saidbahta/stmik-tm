@@ -1,18 +1,18 @@
 ---
 layout:     artikel
-title:      Kuliah itu sulit!
-gambar:     /assets/img/gambar_opini/tiga-kunci-sukses-compress.jpg
+title:      Kuliah itu tidak mudah!
+gambar:     /assets/img/gambar_opini/14-7-2019-belajar-kelompok.jpg
 waktu:      38 Januari 2019
 penulis:    Said Bahta
 ---
 
-Semua orang yang pernah kuliah pasti setuju dengan kalimat ini **"Kuliah itu sulit!"**. Walaupun sebagian dari mereka lebih memilih untuk melupakan kesulitannya dan menikmati proses yang dijalani, tetapi tetap saja tidak menghapus kenyataan bahwa kuliah memang sulit. 
+Semua orang yang pernah kuliah pasti setuju dengan kalimat ini **"Kuliah itu tidak mudab!"**. Walaupun sebagian dari mereka lebih memilih untuk melupakan kesulitannya dan menikmati proses yang dijalani, tetapi tetap saja tidak menghapus kenyataan bahwa kuliah memang tidak mudah. 
 
 Sebelum saya lanjutkan, saya ingin menyampaikan bahwa tulisan ini ditulis bukan untuk membuat siapa saja yang masih berstatus kuliah untuk pesimis, namun lebih kepada mengingatkan tentang kenyataan yang ada dan besarnya pengorbanan yang mereka lakukan. *Terkhusus buat adik-adik yang ada di STMIK Tidore Mandiri*.
 
 Sebagaimana kata pepatah **"Kamu tidak akan pernah benar-benar merasakan nikmatnya kemenangan sebelum kamu merasakan perihnya pengorbanan."** Saya ingat betul bagaimana rasanya berjalan melalui lika-liku perkuliahan. 
 
-Kuliah itu sulit karena banyak hal yang dikorbankan berhubungan dengan *materi, waktu bahkan perasaan*.  
+Kuliah itu tidak mudah karena banyak hal yang dikorbankan berhubungan dengan *materi, waktu bahkan perasaan*.  
 
 ##### 1. Mengorbankan materi
 {:toc}
@@ -45,7 +45,7 @@ Menurut saya siapa saja yang masuk dalam dunia perkuliahan harus menyadari bahwa
 
 Ada satu lagi ujian terberat bagi mahasiswa yang bisa datang kapan saja dan dimana saja. Bahkan tak tanggung-tanggung ujian itu bisa dalam situasi yang paling terburuk sekalipun. Ujian yang saya maksud adalah ujian kesabaran. 
 
-Kuliah itu sulit karena karena kamu harus mengorbankan perasaanmu untuk bisa tetap tenang dan fokus menjalani lika-liku perkuliahan. 
+Kuliah itu tidak mudah karena karena kamu harus mengorbankan perasaanmu untuk bisa tetap tenang dan fokus menjalani lika-liku perkuliahan. 
 
 ##### 4. Penutup
 {:toc}
