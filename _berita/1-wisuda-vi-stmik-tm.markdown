@@ -17,5 +17,8 @@ Dalam sambutannya, Gubernur Provinsi Maluku Utara Abdul Ghani Kasuba, LC menitip
 
 Dipenghujung acara, wisudawan-wisudawati bersama keluarga dan orang tua wisudawan-wisudawati yang juga ikut menghadiri acara dibuat terharu bahkan ada yang tak tahan menahan air mata karena lagu Titip Rindu Buat Ayah yang dinyanyikan oleh paduan suara STMIK Tidore Mandiri.
 
+<b>
+<br>
 Ternate, 29 Desember 2018 <br>
-Panitia Wisuda VI
+Panitia Wisuda VI-SB
+</b>

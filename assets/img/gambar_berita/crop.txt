@@ -10,3 +10,4 @@ Resize
 Image > Image Size 
 Width  = 51.65 cm 
 Height = auto
+Resolution = 72

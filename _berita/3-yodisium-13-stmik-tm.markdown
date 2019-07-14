@@ -13,8 +13,8 @@ Acara yang berakhir dengan rasa haru peserta yodisium tersebut di laksanakan di 
 
 Dalam sambutannya, Ketua 1 STMIK Tidore Mandiri bapak Muhammad Sofyan Do Bagus, SE. M.Si menitip pesan kepada para peserta yodisium agar dengan bekal ilmu yang telah didapatkan selama duduk di bangku perkuliahan dapat menjadi semangat membangun daerah.
 
-
+<b>
 <br>
-
 Tidore, 29 Juni 2019 <br>
-Panitia Yodisium
+Panitia Yodisium-SB
+</b>
