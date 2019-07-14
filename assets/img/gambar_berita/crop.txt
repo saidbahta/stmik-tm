@@ -11,3 +11,8 @@ Image > Image Size
 Width  = 51.65 cm 
 Height = auto
 Resolution = 72
+
+Save 
+----
+Quality : medium 
+Progressive : 3
