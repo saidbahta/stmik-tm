@@ -6,7 +6,7 @@ waktu:      38 Januari 2019
 penulis:    Said Bahta
 ---
 
-Semua orang yang pernah kuliah pasti setuju dengan kalimat ini **"Kuliah itu tidak mudab!"**. Walaupun sebagian dari mereka lebih memilih untuk melupakan kesulitannya dan menikmati proses yang dijalani, tetapi tetap saja tidak menghapus kenyataan bahwa kuliah memang tidak mudah. 
+Semua orang yang pernah kuliah pasti setuju dengan kalimat ini **"Kuliah itu tidak mudah!"**. Walaupun sebagian dari mereka lebih memilih untuk melupakan kesulitannya dan menikmati proses yang dijalani, tetapi tetap saja tidak menghapus kenyataan bahwa kuliah memang tidak mudah. 
 
 Sebelum saya lanjutkan, saya ingin menyampaikan bahwa tulisan ini ditulis bukan untuk membuat siapa saja yang masih berstatus kuliah untuk pesimis, namun lebih kepada mengingatkan tentang kenyataan yang ada dan besarnya pengorbanan yang mereka lakukan. *Terkhusus buat adik-adik yang ada di STMIK Tidore Mandiri*.
 
