@@ -4,6 +4,7 @@ title:      Tiga kunci sukses sebagai seorang mahasiswa
 gambar:     /assets/img/gambar_opini/tiga-kunci-sukses-compress.jpg
 waktu:      38 Januari 2019
 penulis:    Said Bahta
+comments:   true
 ---
 
 Sukses memang sangat sulit diukur, karena setiap orang punya perspektif yang berbeda mengenai lingkup dari kesuksesan, bagi kita mungkin sukses tapi bagi orang lain mungkin saja tidak atau belum. Yang jelas, setiap usaha yang kita lakukan untuk mendekatkan kita dengan tujuan yang ingin kita capai pasti akan berbuah kebaikan, dalam konteks inilah sukses yang saya maksud. 

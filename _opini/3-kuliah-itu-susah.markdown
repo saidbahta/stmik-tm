@@ -4,6 +4,7 @@ title:      Kuliah itu tidak mudah!
 gambar:     /assets/img/gambar_opini/14-7-2019-belajar-kelompok.jpg
 waktu:      38 Januari 2019
 penulis:    Said Bahta
+comments:   true
 ---
 
 Semua orang yang pernah kuliah pasti setuju dengan kalimat ini **"Kuliah itu tidak mudah!"**. Walaupun sebagian dari mereka lebih memilih untuk melupakan kesulitannya dan menikmati proses yang dijalani, tetapi tetap saja tidak menghapus kenyataan bahwa kuliah memang tidak mudah. 
