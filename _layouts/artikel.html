@@ -22,11 +22,10 @@ layout: default
       {{ content }}
       <br>
       {% if page.comments %}
-
       <div id="disqus_thread"></div>
       <script>
        var disqus_config = function () {
-      this.page.url = "{{ site.url }} {{site.baseurl}} {{ page.url }}";  
+      this.page.url = "{{ site.url }}{{ page.url }}";  
       this.page.identifier = "{{ page.id }}"; 
       };
 
@@ -44,4 +43,5 @@ layout: default
     </div>
   </div>
 </div>
+<script id="dsq-count-scr" src="//stmik-tidore-mandiri.disqus.com/count.js" async></script>
 <!-- END content -->
