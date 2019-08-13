@@ -2,7 +2,7 @@
 layout:     artikel
 title:      Kuliah itu tidak mudah!
 gambar:     /assets/img/gambar_opini/14-7-2019-belajar-kelompok.jpg
-waktu:      38 Januari 2019
+waktu:      14 Juli 2019
 penulis:    Said Bahta
 comments:   true
 ---
