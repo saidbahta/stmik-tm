@@ -2,7 +2,6 @@ Crop
 -----
 Width		: 732 
 Height 		: 367
-Resample 	: Bicubic Sharper (reduction)
 
 
 Resize
@@ -10,3 +9,11 @@ Resize
 Image > Image Size 
 Width  = 51.65 cm 
 Height = auto
+Resample 	: Bicubic Sharper (reduction)
+
+
+Save 
+----
+Quality : 5 Medium 
+Format Options : Progressive
+Scan : 3
